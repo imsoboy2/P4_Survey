@@ -1,0 +1,10 @@
+# How to run linux virtual machine in window 7 
+
+Current version of virtualbox (5.1 ver) does not support window 7 to run VMs. 
+(You will see E_fail error message from v-box program which has failed to create virtual environment in your PC)
+So, you need to older version of v-box 
+
+Requirements: v-box 4.3.10 or older build  
+
+
+After installation the v-box 
